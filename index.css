@@ -1,0 +1,46 @@
+
+
+h3{
+     color: red;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+.span{
+
+    text-decoration: line-through;
+}
+
+h2{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.orderlist{
+    font-weight: 500;
+    color: maroon;
+    
+}
+
+.orderlist4{
+    color: maroon;
+    text-decoration-line: underline;
+    font-style: italic;
+}
+
+.unorderlist{
+    letter-spacing: 5px;
+    color: maroon;
+}
+
+.para{
+    color: chocolate;
+}
+
+.bgcolor{
+    background-color: yellow;
+    color: maroon;
+    font-style: oblique;
+}
